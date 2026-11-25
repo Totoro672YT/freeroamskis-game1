@@ -35,5 +35,8 @@ Controls, Bottom right
     - Scroll Wheel to zoom camera
     - Scroll Wheel Pressed Down to rotate camera
 
-
+-= MOUNTAINS INCLUDED =-
+    - Matterhorn (Zermatt) 4,478 m
+    - Mount Blanc (Chamonix) 4,806 m
+    - Jungfrau 4,158 m
 
