@@ -35,6 +35,10 @@ Controls, Bottom right
 - Scroll Wheel to zoom camera
 - Scroll Wheel Pressed Down to rotate camera
 
+Skiing over 50km/h will make the snow 
+
+You can hear wind starting at 50km/h, very quiet. It turns into pure white noise starting at 300km/h (so unreal, am i right?)
+
 -= MOUNTAINS INCLUDED =-
 - Matterhorn (Zermatt) 4,478 m
 - Mont Blanc (Chamonix) 4,806 m
@@ -111,3 +115,4 @@ Controls, Bottom right
 - Fitz Roy 3,405 m
 - Mount Vinson 4,892 m
 - Mount Erebus 3,794 m
+
