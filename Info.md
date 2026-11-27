@@ -39,6 +39,8 @@ Skiing over 50km/h will make the snow
 
 You can hear wind starting at 50km/h, very quiet. It turns into pure white noise starting at 300km/h (so unreal, am i right?)
 
+Textures on Mars, Venus and Mercury apart from earth will come soon along with V1.5 on 11/27.
+
 -= ALL MOUNTAINS / MOUNTAIN FEATURES IN V1.5 =-
 EARTH — 41
 - Matterhorn (Zermatt) — 4,478 m
